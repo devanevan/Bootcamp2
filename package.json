@@ -9,7 +9,7 @@
   "author": "Medhir Bhargava & Christina Gardner-McCune",
   "license": "MIT",
   "dependencies": {
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "mongoose": "^5.7.1",
     "should": "^13.2.3"
   },
